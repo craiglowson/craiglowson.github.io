@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
+Personal blog page, still being built
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+- [About](/about/)
+- [Posts](/posts/)
