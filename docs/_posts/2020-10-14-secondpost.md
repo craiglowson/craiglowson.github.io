@@ -14,4 +14,4 @@ There's not really much too this, just testing generating the PR locally that co
 
 I've added the red bit in the text to test using a custom css file. 
 
-When using a theme, can't seem to get the Github process to pull in extra css/scss files from within the base the scss file so I've entered an extra reference to the custom css within the default html file. 
+When using a theme, can't seem to get the Github process to pull in extra css/scss files from within the base scss file so I've entered an extra reference to the custom css within the default html file and that has loaded in okay. 
