@@ -12,3 +12,8 @@
     text-decoration: none;
     text-shadow: #111 0px 0px 10px;
 }
+.maintitle:hover {
+    color: #0F79D0;
+    text-decoration: none;
+    text-shadow: #111 0px 0px 10px;
+}
