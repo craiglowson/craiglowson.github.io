@@ -1,3 +1,8 @@
 .myfont {
     color: red;
 }
+
+a.maintitle {
+    color: #fff;
+    text-decoration: none;  
+}
