@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Craig Lowson's placeholder page
+title: Placeholder
 description: > # this means to ignore newlines until "baseurl:"
-  Temporary page
+  Temp page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://craiglowson.github.io" # the base hostname & protocol for your site
 twitter_username: craiglowson
