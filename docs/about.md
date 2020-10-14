@@ -1,4 +1,6 @@
-
+---
+title: About
+---
 
 
 # Base About page
