@@ -4,9 +4,11 @@
 
 .maintitle {
     color: #fff;
-    text-decoration: none;  
+    text-decoration: none;
+    text-shadow: #111 0px 0px 10px;
 }
 .maintitle:visited {
     color: #fff;
     text-decoration: none;
+    text-shadow: #111 0px 0px 10px;
 }
