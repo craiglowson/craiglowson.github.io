@@ -1,5 +1,5 @@
-# Test
+# First index page
 
-## Smaller test
+## Smaller headline
 
 Here's some dummy text
