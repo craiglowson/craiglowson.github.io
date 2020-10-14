@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: craiglowson.github.io
 description: Personal blog!
+baseurl: https://craiglowson.github.io
 
 defaults:
     -
