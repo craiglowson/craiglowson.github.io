@@ -1,6 +1,7 @@
 ---
 title: Second post and PRs
 date: 2020-10-14 22:00:00 +01
+tags: miscellaneous 
 ---
 
 # Second post
