@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: craiglowson.github.io
 description: Personal blog!
+
+defaults:
+    -  
+    author: Craig
