@@ -2,16 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-#content-wrapper{
+content-wrapper{
     display:table;
     width:100%;
     height:100%;
   }
-  
-  #content{
+content{
     display:table-row;
   }
-  
-  #content>div{
+content>div{
     display:table-cell
   }
