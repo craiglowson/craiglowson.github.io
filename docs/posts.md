@@ -14,13 +14,12 @@ permalink: /posts/
   {% endfor %}
 </ul>
 
-## Posts by tag
-
+# Posts by tag
 
 {% for tag in site.tags %}
-  ### {{ tag[0] }}
+  ## {{ tag[0] }}
   <ul>
-    {{% for post in tag[1] %}}
+    {% for post in tag[1] %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
