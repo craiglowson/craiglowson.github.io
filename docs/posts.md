@@ -14,10 +14,10 @@ permalink: /posts/
   {% endfor %}
 </ul>
 
-# Posts by tag
+## Posts by tag
 
 {% for tag in site.tags %}
-  ## {{ tag[0] }}
+  <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
       <li>
@@ -25,4 +25,4 @@ permalink: /posts/
       </li>
     {% endfor %}
   </ul>
-{{% endfor %}}
+{% endfor %}
