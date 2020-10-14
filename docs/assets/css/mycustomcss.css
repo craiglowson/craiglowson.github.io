@@ -2,7 +2,11 @@
     color: red;
 }
 
-a.maintitle {
+.maintitle {
     color: #fff;
     text-decoration: none;  
+}
+.maintitle:visited {
+    color: #fff;
+    text-decoration: none;
 }
